@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Setup Proker",
+      "link": "/setup"
+    },
+    {
+      "id": 2,
+      "name": "Organisasi",
+      "link": "/organisasi"
+    },
+    {
+      "id": 3,
+      "name": "Chart Of Account",
+      "link": "/coa"
+    },
+    {
+      "id": 4,
+      "name": "Proker",
+      "link": "/proker"
+    },
+
+    {
+        "id": 5,
+        "name": "menu5",
+        "link": "/menu5"
+      },
+      {
+        "id": 6,
+        "name": "menu6",
+        "link": "/menu6"
+      },
+      {
+        "id": 7,
+        "name": "menu7",
+        "link": "/menu7"
+      },
+      {
+        "id": 8,
+        "name": "menu8",
+        "link": "/menu8"
+      },
+      {
+        "id": 9,
+        "name": "menu9",
+        "link": "/menu9"
+      }
+  ]
