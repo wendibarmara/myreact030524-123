@@ -1,7 +1,8 @@
-import React from "react";
+import React, { memo  }from "react";
 import "./header.css"
-class Header extends React.Component {
-  render() {
+const Header =()=>
+   {
+    console.log("Rendering Header")
     return(
       <header>
       <div className="header-image"></div>
@@ -9,5 +10,6 @@ class Header extends React.Component {
       </header>
     );
   }
-}
-export default Header;
+
+
+export default memo(Header);
